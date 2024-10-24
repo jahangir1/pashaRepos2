@@ -1,0 +1,14 @@
+sa\kafd\ebsaris\controllers\GenericExceptionHandler.class
+sa\kafd\ebsaris\controllers\GenericController.class
+sa\kafd\ebsaris\model\repositories\EmployeeInfoViewRepository.class
+sa\kafd\ebsaris\httpBodies\response\GenericErrorMessage.class
+sa\kafd\ebsaris\EbsArisApplication.class
+sa\kafd\ebsaris\httpBodies\response\OrganizationInfoViewResponseDTO.class
+sa\kafd\ebsaris\httpBodies\response\JobInfoViewResponseDTO.class
+sa\kafd\ebsaris\model\entities\OrganizationInfoView.class
+sa\kafd\ebsaris\services\GenericService.class
+sa\kafd\ebsaris\model\entities\JobInfoView.class
+sa\kafd\ebsaris\model\entities\EmployeeInfoView.class
+sa\kafd\ebsaris\model\repositories\JobInfoViewRepository.class
+sa\kafd\ebsaris\httpBodies\response\EmployeeViewResponseDTO.class
+sa\kafd\ebsaris\model\repositories\OrganizationInfoViewRepository.class
